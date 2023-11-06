@@ -111,7 +111,6 @@ def q_learning(env, gamma=1.0, init_alpha=0.5,
 ### Optimal Action Value Functions:
 ![image](https://github.com/Meenakshi0907/q-learning/assets/94165108/d7bd6e4d-8154-4298-95f9-bd44165c4d55)
 
-</br></br></br></br></br></br></br></br></br></br></br></br>
 
 ### State value functions of Monte Carlo method:
 ![image](https://github.com/Meenakshi0907/q-learning/assets/94165108/7d5b58b0-7231-4548-9783-1003824c97f3)
